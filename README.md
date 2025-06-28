@@ -1,7 +1,7 @@
 # Centralized Missing Persons Database and Mobile Application
 
 ## Overview
-A comprehensive system for managing missing persons reports in Kenya, providing a centralized database accessible to law enforcement, NGOs, and authorized organizations.
+A comprehensive, full-stack missing persons management system designed specifically for Kenya, enabling seamless coordination between law enforcement agencies, NGOs, and the public to help reunite families and locate missing individuals.
 
 ## Features
 - **Centralized Database**: Single national database for all missing persons reports
@@ -137,4 +137,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or collaboration opportunities, please contact the development team.
-
